@@ -1,8 +1,8 @@
 # Vineger_Cipher
- A program for creating complicated ciphers with ease
+ A program for creating complicated ciphers with ease.
 
 ## How to run this program?
-To run this program you need to install python 3.12 on your PC (other versions are not tested, do it on your own risk)
+To run this program you need to install python 3.12 on your PC (other versions are not tested, do it on your own risk).
 System requirements:
  * 16 MB of RAM
  * Any x64 CPU
@@ -23,7 +23,7 @@ After pressing a button, program:
  3. Doing some math
  4. Displays the result
 
-To see more about program, you can check source code of the program
+To see more about program, you can check source code of the program.
 
 About Vigenère cipher you can read here:
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
