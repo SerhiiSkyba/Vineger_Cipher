@@ -13,6 +13,7 @@ To start you need:
  1. Enter a text into an entry for text which you want to encrypt
  2. Enter a key into an entry for key
  3. Press the button
+
 After those steps you should have a text under a button, this is your encrypted text.
 
 ## How it works?
