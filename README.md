@@ -14,3 +14,13 @@ To start you need:
  2. Enter a key into an entry for key
  3. Press the button
 After those steps you should have a text under a button, this is your encrypted text.
+
+## How it works?
+After pressing a button, program:
+ 1. Converts text into a list
+ 2. Replaces letters in text into an ASCII codes
+ 3. Doing some math
+ 4. Displays the result
+To see more about program, you can check source code of the program
+About Vigenère cipher you can read here:
+https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
