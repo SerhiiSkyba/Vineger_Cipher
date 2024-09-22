@@ -24,5 +24,6 @@ After pressing a button, program:
  4. Displays the result
 
 To see more about program, you can check source code of the program
+
 About Vigenère cipher you can read here:
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
